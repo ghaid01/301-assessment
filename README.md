@@ -1,7 +1,6 @@
 # 301-assessment
 **How long is the array returned by .map() and .filter()?**
-map returns the same number of elements mentioned in the array 
-filter 
+map returns the same number of elements mentioned in the array filter array doesnt 
 
 
 **What does the following code do ?**
